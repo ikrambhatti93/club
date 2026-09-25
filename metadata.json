@@ -2,5 +2,7 @@
   "name": "Strip Clubs Barcelona - Luxury Nightlife & VIP Venue Reservations",
   "description": "Premium Barcelona adult-entertainment venue directory, VIP reservations, stag party packages, and bespoke nightlife hospitality.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
